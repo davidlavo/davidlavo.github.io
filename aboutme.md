@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: If you need to ask, you probably don't need to know
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+My name is David Lavo. I am an independent developer and hardware engineer in Santa Cruz, CA.  
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I've worked at several places and on many things:
+- PhD in Computer Engineering, University of California, Santa Cruz
+- Hewlett-Packard
+- Agilent Technologies
+- ProductOps
+- Redfish Instruments
+- My own stuff
