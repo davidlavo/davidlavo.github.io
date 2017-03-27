@@ -14,4 +14,4 @@ I've worked at several places and on many things:
 - Agilent Technologies
 - ProductOps
 - Redfish Instruments
-- My own stuff
+- My own stuff: a few of my favorite things, details upcoming ...
