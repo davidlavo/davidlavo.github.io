@@ -1,7 +1,8 @@
 ---
 layout: post
 title: First post!
-tags: [random, exciting-stuff]
+subtitle: A post to test all posts
+tags: [random, test-content]
 ---
 
-This is my first post, how exciting!
+A placeholder and promise of future content ...
