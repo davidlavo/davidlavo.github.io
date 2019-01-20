@@ -4,7 +4,7 @@ title: About me
 subtitle: If you need to ask, you probably don't need to know
 ---
 
-My name is David Lavo. I am an independent developer and hardware engineer in Santa Cruz, CA.  
+My name is David Lavo. I am an independent software developer and hardware engineer in Santa Cruz, CA.  
 
 ### my history
 
